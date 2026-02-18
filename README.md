@@ -1,23 +1,22 @@
-## Hi there, I'm John! 👋
+## Hi there, I'm John! 
 International Business @ Temple University (Supply Chain + MIS)
 2027 Graduate
-📊 Data-Driven Problem Solver | Business Intelligence | ERP Analytics
-📍 Philadelphia, PA
+ Data-Driven Problem Solver | Business Intelligence | ERP Analytics
+ Philadelphia, PA
 
 With a background in Supply Chain and Management Information Systems, I focus on:
 
-📦 Supply Chain Analytics
+Supply Chain Analytics
 
-📊 Business Intelligence & KPI Development
+Business Intelligence & KPI Development
 
-🧩 ERP Data Modeling (SAP S/4HANA)
+ERP Data Modeling (SAP S/4HANA)
 
-📈 Operational Performance Optimization
+Operational Performance Optimization
 
 
-
-📌 Featured Project
-📊 Integrated Supply Chain Analytics Dashboard
+Featured Project
+Integrated Supply Chain Analytics Dashboard
 
 Power BI | SQL | Excel | SAP S/4HANA
 
@@ -38,7 +37,7 @@ Cost vs Service Tradeoffs
 
 
 
-🛠 Tech
+Tech
 Analytics & BI
 
 Power BI (DAX, Data Modeling, Dashboard Design)
@@ -49,7 +48,7 @@ SQL (Joins, Queries, Models)
 
 Python
 
-🏢 Enterprise Systems
+Enterprise Systems
 
 SAP S/4HANA
 
@@ -57,7 +56,7 @@ Business Process Integration
 
 
 
-🌎 Languages
+Languages
 
 English (Fluent)
 
@@ -65,7 +64,7 @@ Spanish (Reading & Writing Proficiency)
 
 
 
-📈 Career Focus
+Career Focus
 
 I am currently seeking opportunities in:
 
